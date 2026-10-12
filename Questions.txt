@@ -1,0 +1,72 @@
+RAG APPLICATION — TEST QUESTIONS
+Documents: Infosys Human Rights Policy Statement and Accenture Code of Business Ethics
+
+LEVEL 1 — BASIC QUESTIONS
+
+1. What does Infosys say about child labor?
+
+2. What is the purpose of the Infosys Human Rights Policy Statement?
+
+3. What is the Accenture Code of Business Ethics?
+
+4. What does Infosys say about forced labor?
+
+5. What are the main topics covered in the Infosys human rights document?
+
+LEVEL 2 — INTERMEDIATE QUESTIONS
+
+6. What does Infosys say about freedom of expression and association?
+
+7. How does Infosys define child labor in its policy?
+
+8. What ethical responsibilities are described in Accenture's Code of Business Ethics?
+
+9. What do the documents say about protecting human rights?
+
+10. What are the key principles employees should follow according to Accenture's code?
+
+LEVEL 3 — ADVANCED QUESTIONS
+
+11. Compare Infosys's approach to human rights with Accenture's approach to business ethics.
+
+12. What similarities exist between the two documents regarding employee responsibilities?
+
+13. Based on the documents, what should a company consider when addressing child labor and ethical business conduct?
+
+14. Which document focuses more directly on human rights, and which focuses on business ethics? Explain using evidence from the documents.
+
+15. Do the documents explain how companies should handle every type of workplace ethical issue? Explain what information is and is not covered.
+
+LEVEL 4 — RETRIEVAL AND SOURCE VALIDATION
+
+16. Which document discusses child labor? Provide the source document name.
+
+17. What passage supports your answer about forced labor? Identify the source document.
+
+18. What is Infosys's policy on Mars exploration?
+
+19. If the documents do not contain information about a question, state that the answer cannot be found in the provided documents.
+
+20. List three claims in your answer and identify the retrieved passage that supports each claim.
+
+LEVEL 5 — RAG PIPELINE TESTING
+
+21. What are the three most relevant passages retrieved for the question about child labor?
+
+22. What similarity scores are assigned to the retrieved passages?
+
+23. Ask the same question using different wording: "How does Infosys protect children from exploitation?" Does the application retrieve relevant information?
+
+24. Ask a question that requires information from both documents. Does the application retrieve passages from both PDFs?
+
+25. Ask a question unrelated to either document. Does Mistral avoid inventing an answer?
+
+26. Does the final answer accurately reflect the retrieved passages?
+
+27. Does the answer identify the source document and chunk number?
+
+28. What happens when no relevant document chunks are retrieved?
+
+29. Does the application return a consistent answer when the same question is asked multiple times?
+
+30. What improvements could be made to the retrieval process to improve answer accuracy?
